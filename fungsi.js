@@ -1,0 +1,1 @@
+Consule.log('fungsi pertama');
