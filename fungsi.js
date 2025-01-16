@@ -7,3 +7,6 @@ consule.log(nambah(1,2));
 
 const perkalian(a,b) => (a*b);
 consule.log(perkalian(1,2));
+
+const pembagian(a,b) => (a/b);
+consule.log(pembagian(1,2));
