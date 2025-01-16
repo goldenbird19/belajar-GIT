@@ -9,3 +9,4 @@ const perkalianangka(a,b) => (a*b);
 consule.log(perkalianangka(1,2));
 
 ///nambah ke repositori
+// ini pov temen nambah branch baru buat pull
